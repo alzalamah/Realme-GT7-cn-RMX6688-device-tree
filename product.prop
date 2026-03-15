@@ -1,0 +1,8 @@
+# Miscellaneous
+persist.wm.extensions.enabled=true
+remote_provisioning.hostname=remoteprovisioning.googleapis.com
+ro.oplus.image.product.version=.992f8bcf
+ro.product.build.16k_page.enabled=false
+ro.product.build.no_bionic_page_size_macro=true
+ro.product.cpu.pagesize.max=16384
+
