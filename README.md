@@ -8,7 +8,7 @@
 | Chipset                 | Mediatek Dimensity 9400+ (3 nm)   |
 | GPU                     | Immortalis-G925 MC12           |
 | Memory                  | 12/16 GB                          |
-| Shipped Android Version | 6.0.1                             |
+| Shipped Android Version | 15                             |
 | Storage                 | 256/512/1024 GB                          |
 | Battery                 | 7200 mAh (non-removable)          |
 | Dimensions              | 162.4 x 76 x 8.3 mm                 |
